@@ -247,7 +247,7 @@ To keep track of what is going on in the program, we drew a simple Control Flow 
 
 
 
-We did not include the intermediate returns since they indicate they do not provide any useful information.
+We did not include the intermediate returns since they do not provide any useful information as it is not the intended flow.
 
 
 
