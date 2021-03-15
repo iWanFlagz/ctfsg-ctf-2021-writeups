@@ -76,7 +76,7 @@ Hello 6C7GGJVTU4NSELOZ! Please enter the 6 digit code from your authentication a
 
 Nice, we have now gotten hold of our OTP secret key `6C7GGJVTU4NSELOZ`. We can now key this key in Google Authenticator or any other MFA apps to generate our OTP.
 
-Now, we have to login back to admin with `1" or 1=1--` and key in the newly generated OTP into the field and viola! We got out flag!
+Now, we have to login back to admin with `1" or 1=1--` and key in the newly generated OTP into the field and viola! We got our flag!
 
 <p align="center">
     <img src="images/TouchOfTheParanoid03.png" style="width:50%;" /><br/>
