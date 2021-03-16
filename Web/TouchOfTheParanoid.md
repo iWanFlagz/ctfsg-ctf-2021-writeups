@@ -38,7 +38,7 @@ Next, I tried entering `1" or 1=1--` into both fields and it seems that I have s
 Seems like further digging of the database is required to gain access into the portal. A quick Google search for `"sqlite3 sql injection"` can get us some useful queries required for sniffing out the data. I first start with sniffing out the table name:
 
 `
-1" UNION SELECT tbl_name FROM sqlite_master WHERE type='table' and tbl_name NOT like 'sqlite_sequence' -
+1" UNION SELECT tbl_name FROM sqlite_master WHERE type='table' and tbl_name NOT like 'sqlite_sequence' --
 `
 
 Which resulted in:
