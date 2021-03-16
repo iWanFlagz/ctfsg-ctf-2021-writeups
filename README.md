@@ -3,12 +3,17 @@ Writeups for the Challenges that iWanFlagz solved in CTF.sg CTF:  https://iwanfl
 
 ## Write-ups
 
-1. Reverse Engineering
+1. Miscellaneous
+
+   - [Insanity Check](./Miscellaneous/InsanityCheck.md)
+
+
+2. Reverse Engineering
 
    - [What do the numbas mean?](./Reverse-Engineering/WhatDoTheNumbasMean.md)
 
 
-2. Web
+3. Web
 
    - [SGMurmurs](./Web/SGMurmurs.md)
 
